@@ -20,3 +20,6 @@ __Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi d
 ## License
 [MIT](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
 
+## Image
+[![image](https://r.resimlink.com/nvFKOXqYu.jpeg)](https://resimlink.com/nvFKOXqYu))
+
